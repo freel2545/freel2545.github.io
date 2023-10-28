@@ -2,7 +2,9 @@
 ## site is live at https://freel2545.github.io/
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wanussanai Karin
 ========================================================================================================================================
-
+![logo](https://github.com/freel2545/freel2545.github.io/assets/16851402/32099e6b-80e3-40c7-b360-da757568b662)
++ Information Technology
++ Institute of Vocational Education : Central Region 5
 Game Developer
 --------------
 
