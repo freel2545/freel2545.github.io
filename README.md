@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Game Developer
 --------------
 
-* 🌍  I'm based in Bankok
+* 🌍  I'm based in samut sakhon
 * ✉️  You can contact me at [freel2545@gmail.com](mailto:freel2545@gmail.com)
 
 <a href="https://www.github.com/freel2545" target="_blank" rel="noreferrer"><img
