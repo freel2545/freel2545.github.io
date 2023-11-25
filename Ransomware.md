@@ -1,8 +1,8 @@
-**
+
 
 ## Ransomware
 
-**
+
 
 **Ransomware**  is a type of  [cryptovirological](https://en.wikipedia.org/wiki/Cryptovirology "Cryptovirology")  [malware](https://en.wikipedia.org/wiki/Malware "Malware")  that permanently block access to the victim's  [personal data](https://en.wikipedia.org/wiki/Personal_data "Personal data")  unless a ransom is paid. While some simple ransomware may lock the system without damaging any files, more advanced malware uses a technique called cryptoviral extortion. It  [encrypts](https://en.wikipedia.org/wiki/Encrypts "Encrypts")  the victim's files, making them inaccessible, and demands a ransom payment to decrypt them.[[1]](https://en.wikipedia.org/wiki/Ransomware#cite_note-young-1)[[2]](https://en.wikipedia.org/wiki/Ransomware#cite_note-schofield-2)[[3]](https://en.wikipedia.org/wiki/Ransomware#cite_note-43zHf-3)[[4]](https://en.wikipedia.org/wiki/Ransomware#cite_note-BBe0f-4)[[5]](https://en.wikipedia.org/wiki/Ransomware#cite_note-5)  In a properly implemented cryptoviral extortion attack, recovering the files without the decryption  [key](https://en.wikipedia.org/wiki/Key_(cryptography) "Key (cryptography)")  is an  [intractable](https://en.wikipedia.org/wiki/Computational_complexity_theory#Intractability "Computational complexity theory")  problem, and difficult to trace  [digital currencies](https://en.wikipedia.org/wiki/Digital_currency "Digital currency")  such as  [paysafecard](https://en.wikipedia.org/wiki/Paysafecard "Paysafecard")  or  [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin "Bitcoin")  and other  [cryptocurrencies](https://en.wikipedia.org/wiki/Cryptocurrency "Cryptocurrency")  are used for the ransoms, making tracing and prosecuting the perpetrators difficult.
 
@@ -195,3 +195,133 @@ A number of file systems keep snapshots of the data they hold, which can be used
 There are a number of tools intended specifically to decrypt files locked by ransomware, although successful recovery may not be possible.[[2]](https://en.wikipedia.org/wiki/Ransomware#cite_note-schofield-2)[[146]](https://en.wikipedia.org/wiki/Ransomware#cite_note-hAZRL-146)  If the same encryption key is used for all files, decryption tools use files for which there are both uncorrupted backups and encrypted copies (a  [known-plaintext attack](https://en.wikipedia.org/wiki/Known-plaintext_attack "Known-plaintext attack")  in the jargon of  [cryptanalysis](https://en.wikipedia.org/wiki/Cryptanalysis "Cryptanalysis"). But it only works when the cipher the attacker used was weak to begin with, being vulnerable to known-plaintext attack); recovery of the key, if it is possible, may take several days.[[147]](https://en.wikipedia.org/wiki/Ransomware#cite_note-V6K3w-147)  Free ransomware decryption tools can help decrypt files encrypted by the following forms of ransomware: AES_NI, Alcatraz Locker, Apocalypse, BadBlock, Bart, BTCWare, Crypt888, CryptoMix, CrySiS, EncrypTile, FindZip, Globe,  [Hidden Tear](https://en.wikipedia.org/wiki/Hidden_Tear "Hidden Tear"), Jigsaw, LambdaLocker, Legion, NoobCrypt, Stampado, SZFLocker,  [TeslaCrypt](https://en.wikipedia.org/wiki/TeslaCrypt "TeslaCrypt"), XData.[[148]](https://en.wikipedia.org/wiki/Ransomware#cite_note-Bf057-148)  The No More Ransom Project is an initiative by the  [Netherlands' police](https://en.wikipedia.org/wiki/National_Police_Corps_(Netherlands) "National Police Corps (Netherlands)")'s National High Tech Crime Unit,  [Europol](https://en.wikipedia.org/wiki/Europol "Europol")’s  [European Cybercrime Centre](https://en.wikipedia.org/wiki/European_Cybercrime_Centre "European Cybercrime Centre"),  [Kaspersky Lab](https://en.wikipedia.org/wiki/Kaspersky_Lab "Kaspersky Lab")  and  [McAfee](https://en.wikipedia.org/wiki/McAfee "McAfee")  to help ransomware victims recover their data without paying a ransom.[[149]](https://en.wikipedia.org/wiki/Ransomware#cite_note-149)  They offer a free CryptoSheriff tool to analyze encrypted files and search for decryption tools.[[150]](https://en.wikipedia.org/wiki/Ransomware#cite_note-150)
 
 In addition, old copies of files may exist on the disk, which has been previously deleted. In some cases, these deleted versions may still be recoverable using  [software designed for that purpose](https://en.wikipedia.org/wiki/Data_recovery#List_of_data_recovery_software "Data recovery").
+
+**[Ransomware - Wikipedia](https://en.wikipedia.org/wiki/Ransomware)**
+
+
+
+
+## Ransomware คืออะไร?
+
+Ransomware เป็น[มัลแวร์ (Malware)](https://www.it.chula.ac.th/%e0%b8%97%e0%b8%b3%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%a1%e0%b8%b1%e0%b8%a5%e0%b9%81%e0%b8%a7%e0%b8%a3%e0%b9%8c/)  ประเภทหนึ่งที่มีลักษณะการทำงานที่แตกต่างกับมัลแวร์ประเภทอื่น ๆ คือไม่ได้ถูกออกแบบมาเพื่อขโมยข้อมูลของผู้ใช้งานแต่อย่างใด แต่จะทำการเข้ารหัสหรือล็อกไฟล์ ไม่ว่าจะเป็นไฟล์เอกสาร รูปภาพ วิดีโอ ผู้ใช้งานจะไม่สามารถเปิดไฟล์ใด ๆ ได้เลยหากไฟล์เหล่านั้นถูกเข้ารหัส ซึ่งการถูกเข้ารหัสก็หมายความว่าจะต้องใช้คีย์ในการปลดล็อคเพื่อกู้ข้อมูลคืนมา ผู้ใช้งานจะต้องทำการจ่ายเงินตามข้อความ “เรียกค่าไถ่” ที่ปรากฏ
+
+โดยข้อมูลหรือข้อความ “เรียกค่าไถ่” จะแสดงขึ้นหลังไฟล์ถูกเข้ารหัสเรียบร้อยแล้ว จำนวนเงินค่าไถ่ก็จะแตกต่างกันไป โดยเบื้องต้นก็จะมีราคาอยู่ที่ $150–$500 โดยประมาณ และการชำระเงินจะต้องชำระผ่านระบบที่มีความยากต่อการตรวจสอบหรือติดตาม เช่น การโอนเงินผ่านทางอิเล็กทรอนิกส์, Paysafecard หรือ Bitcoin เป็นต้น แต่อย่างไรก็ตาม การชำระเงินก็ไม่ได้หมายความว่าผู้ไม่หวังดีจะส่งคีย์ที่ใช้ในการปลดล็อคไฟล์ให้กับผู้ใช้งาน
+
+![](https://www.it.chula.ac.th/wp-content/uploads/2020/01/crypto-ex.png)
+
+รูปที่ 1 ตัวอย่างข้อความ “เรียกค่าไถ่”
+
+ภาพประกอบจาก [Trend Micro](http://www.trendmicro.com/vinfo/us/security/definition/Ransomware)
+
+**ช่องทางการแพร่กระจายของ Ransomware**
+
+เพื่อแพร่กระจาย Ransomware โดยเบื้องต้นผู้ไม่หวังดีจะใช้วิธีการผ่านช่องทางต่าง ๆ ดังนี้
+
+-   แฝงมาในรูปแบบเอกสารแนบทางอีเมล  
+    ในกรณีส่วนใหญ่ Ransomware จะมาในรูปแบบเอกสารแนบทางอีเมล โดยอีเมลผู้ส่งก็มักจะเป็นผู้ให้บริการที่เรารู้จักกันดี เช่น ธนาคาร และจะใช้หัวข้อหรือประโยคขึ้นต้นที่ดูน่าเชื่อถืออย่าง “Dear Valued Customer”, “Undelivered Mail Returned to Sender”, “Invitation to connect on LinkedIn.” เป็นต้น ประเภทของไฟล์แนบที่เห็นก็จะเป็น “.doc” หรือ “.xls” ผู้ใช้อาจจะคิดว่าเป็นไฟล์เอกสาร Word หรือ Excel ธรรมดา แต่เมื่อตรวจสอบชื่อไฟล์เต็ม ๆ ก็จะเห็นนามสกุล .exe ซ่อนอยู่ เช่น “Paper.doc.exe” แต่ผู้ใช้จะเห็นเฉพาะ “Paper.doc” และทำให้เข้าใจผิดว่าเป็นไฟล์ที่ไม่เป็นอันตราย
+
+![](https://www.it.chula.ac.th/wp-content/uploads/2020/01/RSW01.png)
+
+รูปที่ 2 แสดงกระบวนการของ Ransomware ที่ถูกส่งมาทางอีเมล
+
+-   แฝงตัวมาในรูปแบบของ Malvertising (โฆษณา) Ransomware นี้อาจจะมาในรูปแบบของโฆษณา ไม่ว่าจะเป็นโฆษณาที่ฝังมากับซอฟต์แวร์หรือตามหน้าเว็บไซต์ต่าง ๆ
+
+-   เชื่อมโยงไปยังเว็บไซต์อันตรายและอาศัยช่องโหว่ของซอฟต์แวร์ ผู้ใช้ยังสามารถกลายเป็นเหยื่อได้โดยไม่ได้ตั้งใจเพียงเข้าเยี่ยมชมหน้าเว็บที่ถูกผู้ไม่หวังดีเข้ามาควบคุม ตัวอย่างเช่น ถูกดาวน์โหลดโค้ด (Code) ที่เป็นอันตรายผ่านทางโฆษณาแบนเนอร์ใน Flash ดังแสดงในรูปที่ 3 โดย Ransomware มักจะใช้ประโยชน์จากข้อบกพร่องหรือช่องโหว่ด้านความปลอดภัยอื่น ๆ ในเบราว์เซอร์, แอปพลิเคชั่นหรือ ระบบปฏิบัติการ บ่อยครั้งก็มักจะเกิดจากช่องโหว่ในเว็บเบราว์เซอร์, Java และ PDF แต่ช่องโหว่ที่พบมากที่สุดก็คือใน Flash
+
+![](https://www.it.chula.ac.th/wp-content/uploads/2020/01/RSW02.png)
+
+รูปที่ 3 แสดงกระบวนการทำงานของ Ransomware ที่อาศัยช่องโหว่ของซอฟต์แวร์
+
+**วิธีป้องกัน Ransomware**
+
+-   ทำการสำรองข้อมูล (Backup) เป็นประจำ หากผู้ใช้งานติด Ransomware อย่างน้อยถ้ามีการสำรองข้อมูล (Backup) ก็จะสามารถกู้คืนไฟล์ของคุณได้ และเพื่อป้องกันข้อมูลที่ Backup ถูกเข้ารหัสไปด้วย ผู้ใช้งานควรสำรองข้อมูลลงบนอุปกรณ์สำหรับจัดเก็บข้อมูลภายนอกเครือข่าย (Cloud Storage, External Hard Drive, USB Flash Drive)
+
+-   อัปเดตซอฟต์แวร์ในเครื่องอย่างสม่ำเสมอ การอัปเดตระบบปฏิบัติการและซอฟต์แวร์จะช่วยป้องกันการโจมตีที่ต้องอาศัยช่องโหว่ของซอฟต์แวร์ได้ โดยเฉพาะอย่างยิ่งใน Adobe Flash, Microsoft Silverlight และเว็บเบราว์เซอร์ ควรติดตามและอัปเดตให้เป็น Version ปัจจุบัน
+
+-   ติดตั้งโปรแกรมป้องกันมัลแวร์ (Anti-malware) ลงบนเครื่องคอมพิวเตอร์ เพื่อป้องกันการเข้าถึงเว็บไซต์ที่เป็นอันตรายและตรวจสอบไฟล์ทั้งหมดที่ถูกดาวน์โหลด ควรมีการติดตั้งโปรแกรมป้องกันมัลแวร์ลงบนเครื่องคอมพิวเตอร์ไว้ด้วย
+
+-   ตรวจสอบอีเมลที่เป็นอันตรายเบื้องต้น ผู้ไม่หวังดีมักใช้อีเมลเป็นช่องทางในการหลอกลวงผู้ใช้งานให้หลงเชื่อเปิดหรือดาวน์โหลดเอกสารแนบ ดังนั้น เมื่อเราได้รับอีเมลควร**[ตรวจสอบอีเมล](https://www.it.chula.ac.th/%e0%b8%88%e0%b8%b8%e0%b8%94%e0%b8%aa%e0%b8%b1%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%95%e0%b8%ad%e0%b8%b5%e0%b9%80%e0%b8%a1%e0%b8%a5%e0%b8%ab%e0%b8%a5%e0%b8%ad%e0%b8%81%e0%b8%a5%e0%b8%a7%e0%b8%87-phishing/)**ฉบับนั้นให้ดีเสียก่อน
+
+-   ติดตามข่าวสาร ควรติดตามข่าวสารช่องโหว่หรือภัยคุกคามต่าง ๆ รวมถึงศึกษาวิธีการป้องกันเพื่อไม่ให้ตกเป็นเหยื่อของเหล่าผู้ไม่หวังดีและเพื่อความปลอดภัยของตัวผู้ใช้งานเอง
+
+ข้อมูลอ้างอิง
+
+– Defending Against Crypto-Ransomware by **[Netwrix Corporation](https://www.netwrix.com/)**
+
+– Ransomware Definition by **[Trend Micro](http://www.trendmicro.com/vinfo/us/security/definition/Ransomware)**
+
+[Ransomware คืออะไร? - IT Chulalongkorn University](https://www.it.chula.ac.th/ransomware-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3/)
+
+# Ransomware คืออะไร? – ภัยคุกคามทางไซเบอร์ที่คุณต้องรู้
+
+  
+![](https://www.quickserv.co.th/texteditor/uploade/what-is-ransomware-2.png)  
+  
+  
+**มัลแวร์ประเภทนี้อาจส่งผลกระทบอย่างรุนแรงต่อข้อมูลที่สำคัญของคุณ อย่างที่คุณเองก็คาดไม่ถึง**  
+  
+Ransomware เริ่มเป็นที่รู้จักอย่างแพร่หลายในช่วงไม่กี่ปีที่ผ่านมานี้ เนื่องจากบรรดาแฮกเกอร์ได้มองเห็นช่องทางในการหาเงินโดยการเรียกค่าไถ่จากผู้ที่ตกเป็นเหยื่อ ซึ่งพวกเขาจะต้องจ่ายเงินตามจำนวนที่แฮ็กเกอร์ระบุไว้ เพื่อที่จะได้รับรหัสสำหรับการปลดล็อคและกลับไปใช้ข้อมูลได้ตามปกติ  
+  
+ผลกระทบของมันนั้นชัดเจนมาก เมื่อมีการโจมตีแบบ DDoS (DDoS attacks) ถ้ามองในแง่ของการโจมตีและผลกระทบ จะเห็นได้ชัดว่ามีรูปแบบที่ใกล้เคียงกัน และหนึ่งในเหตุการณ์การโจมตีครั้งยิ่งใหญ่ที่สุดที่เคยเกิดขึ้นในสหราชอาณาจักรเมื่อปี 2560 นั่นก็คือ RansomWare ที่มีชื่อว่า WannaCry ได้โจมตี NHS ซึ่งเป็นหน่วยงานด้านสาธารณสุขของสหราชอาณาจักร ด้วยการแฝงตัวเข้าควบคุมเน็ตเวิร์คภายในของ NHS มีผลให้หลายๆ ระบบหยุดทำงาน ส่งผลกระทบต่อองค์กรอย่างรุ่นแรง และยังพบว่ามัลแวร์ชนิดเดียวกันนี้ ได้มีการโจมตีธุรกิจและองค์กรขนาดใหญ่อื่น ๆ อีกหลายแห่ง ด้วยวิธีการปิดการใช้งานของระบบ เช่นกัน  
+  
+ดูเหมือนว่า Ransomware จะไม่ได้หายไปไหน เรากลับพบรายงานการโจมตีที่เพิ่มขึ้นอีกจำนวนมาก และมันก็ยังมีความรุนแรงมากยิ่งขึ้นอีกด้วย ซึ่งโดยเฉลี่ยแล้วความต้องการที่จะชำระเงินเพื่อแลกกับระบบที่จะกลับมาทำงานได้ตามปกตินั้นก็เพิ่มขึ้นด้วยเช่นกัน นอกจากนี้ ยังมีแนวโน้มของการถูกรบกวนโดย Ransomware ที่มุ่งเน้นไปที่บริษัทโดยเฉพาะ ทั้งนี้ องค์กรและผู้ใช้ไม่เพียงแต่จะต้องทำความเข้าใจว่า Ransomware คืออะไร และจะหลีกเลี่ยงมันได้อย่างไร เท่านั้น, แต่ยังจะต้องเรียนรู้ว่า จะต้องทำอย่างไรหากเกิดสถานการณ์โชคร้ายที่องค์กรและผู้ใช้จะต้องตกอยู่ในสถานะผู้ถูกโจมตี  
+  
+  
+
+## **Ransomware คืออะไร?**
+
+  
+Ransomware, ถ้าแปลตามชื่อของมัน นั่นก็พอจะบ่งบอกได้ว่ามันคือการเรียกเงินค่าไถ่จากเหยื่อ เพื่อเป็นการแลกเปลี่ยนกับรหัสสำหรับปลดล็อค เพื่อให้เหยื่อสามารถกลับมาควบคุมไฟล์หรือระบบได้ตามเดิม ซึ่งโดยปรกติแล้วเหยื่อจะถูกบังคับให้จ่ายในรูปของเงินสกุลเงินดิจิตอล (Cryptocurrency) เช่น Bitcoin หรือ Ethereum  
+  
+การโจมตีของ Ransomware ก็เช่นเดียวกับมัลแวร์ประเภทอื่นๆ ซึ่งจะเริ่มการโจมตีโดยพยายามที่จะหลบหลีกการตรวจจับของระบบรักษาความปลอดภัย และหลังจากนั้นจะทำการเข้ารหัสไฟล์อย่างช้าๆ เพื่อไม่ให้เป็นที่น่าสงสัย โดยที่ไฟล์เป้าหมายหรือระบบทั้งหมดจะถูกเข้ารหัสเพียงครั้งเดียวเท่านั้น เพื่อต้องการให้รู้ว่ามันคือการโจมตีจาก Ransomware และมักจะอยู่ในรูปแบบของ Splash Screen ที่ไม่สามารถเข้าใช้งานได้  
+  
+อันดับแรก มันจะเริ่มต้นจาก Splash Screen ที่ผู้ใช้จะได้รับการบอกกล่าวว่าขณะนี้ไฟล์ของพวกเขานั้นถูกล็อค และเพื่อที่จะเรียกคืนข้อมูลของพวกเขาเหล่านั้น จะต้องทำการชำระเงินทั้งหมดตามที่แฮกเกอร์ได้ระบุไว้ ถ้อยคำที่แสดงความต้องการนั้นจะแตกต่างกันออกไป ซึ่งก็ขึ้นอยู่กับ Ransomware สายพันธุ์ต่างๆ แต่ส่วนใหญ่ก็จะเป็นการเรียกร้องให้เยื่อชำระเงินบางประเภท ภายในระยะเวลาที่กำหนด  
+  
+บางข้อความก็แสดงถึงความก้าวร้าว ทั้งนี้ก็ด้วยมีความหวังว่าจะทำให้เหยื่อกลัว จนต้องรีบชำระเงินโดยเร็ว ในขณะที่บางรูปแบบของการโจมตีก็พยายามปลอมตัวเป็นเจ้าหน้าที่ขององค์กรที่ถูกกฎหมาย เช่น FBI โดยแจ้งว่าคอมพิวเตอร์ของผู้ใช้งานถูกจำกัดการเข้าถึง เนื่องจากมีการใช้งานผิดกฎหมายซึ่งผู้ใช้งานจะต้องจ่ายค่าปรับเพื่อให้กลับมาใช้งานได้ตามปกติ เป็นต้น  
+  
+ในช่วงหลายปีที่ผ่านมานี้ เราพบว่า Ransomware มีอัตราการเติบโตอย่างมีนัยสำคัญควบคู่ไปกับการเพิ่มขึ้นของ cryptocurrencies ซึ่งนับว่าเป็นวิธีการโอนเงินสดผ่านทางอินเทอร์เน็ตที่รวดเร็วและสะดวกสบาย โดยไม่ต้องมีการระบุชื่อ เนื่องจากผู้โจมตีส่วนใหญ่เรียกร้องให้เหยื่อชำระเงินค่าไถ่ด้วย Bitcoin หรือ Monero และนั่นอาจจะทำให้เกิดปัญหากับผู้ที่ตกเป็นเหยื่อบางส่วนที่ไม่คุ้นเคยกับการซื้อขายแลกเปลี่ยนด้วย crypto  
+  
+ตัวอย่างแรกของ Ransomware ที่ค่อนข้างประสบความสำเร็จ นั่นก็คือ "AIDS Trojan" ซึ่งเกิดขึ้นในปี ค.ศ.1989 มันเป็นการโจมตีด้วยการเข้ารหัสชื่อไฟล์แทนที่จะเป็นการเข้ารหัสเนื้อหาของไฟล์ ในขณะที่กุญแจสำหรับเข้ารหัส (Decryption Key) จะถูกซ่อนอยู่ภายในรหัสของมัลแวร์ แม้จะมีข้อผิดพลาดในการปรับใช้ แต่นี่ก็จัดว่าเป็นกรณีแรกของแฮกเกอร์ที่ต้องการเงินเพื่อแลกกับการส่งคืนที่ปลอดภัยของข้อมูลที่ถูกขโมยไป  
+  
+ผู้โจมตียังคงดำเนินการภายใต้หลักการเดียวกัน แต่มักจะมีประสิทธิภาพที่มากยิ่งขึ้น และโดยส่วนใหญ่ต้องการที่จะให้เหยื่อชำระด้วยเงินที่ไม่ใช่ Physical Currency ซึ่งเป็นเหรียญหรือธนบัตรโดยทั่วไป แต่จะต้องการเป็นเงินในรูปแบบดิจิทัล (Digital Coins)  
+  
+Ransomware ได้รับการพิสูจน์แล้วว่าเป็นหนึ่งในมัลแวร์ที่มีการระบาดมากที่สุด นั่นเป็นข้อมูลล่าสุดเท่าที่จำได้ ซึ่งส่วนหนึ่งอาจจะเป็นเพราะมันเป็นวิธีการที่ใช้ความพยายามน้อยมาก เมื่อเทียบกับอาชญากรไซเบอร์รูปแบบอื่นๆ และที่สำคัญมันสามารถให้ผลตอบแทนมากมายได้อย่างไม่น่าเชื่อ  
+  
+Ransomware Tools สามารถสั่งซื้อแบบ Pre-assembled ได้จากเหล่าแฮกเกอร์ในตลาดมืด และนี่ก็เป็นอีกหนึ่งสาเหตุที่ทำให้การโจมตีทำได้ง่ายและมีราคาถูก เพราะผู้ใช้เครื่องมือเหล่านี้ไม่จำเป็นที่จะต้องมีความรู้ในการเขียนโปรแกรมแต่อย่างใด นอกจากนี้ข้อมูลที่เอาไว้ระบุคำสั่งที่จะส่งไปยังปลายทาง (Payload) ของ Ransomware ยังสามารถจัดส่งโดยแคมเปญ Phishing หรือ Malvertising ซึ่งมีราคาถูกและติดตั้งได้ง่าย ซึ่งก็หมายความว่า ผู้โจมตีเพียงแค่จะต้องกลับมานั่งรอเพื่อที่จะรับเงินค่าไถ่เข้ากระเป๋าเพียงอย่างเดียว  
+  
+จำนวนเงินที่จะต้องจ่ายนั้นอาจจะมีมูลค่าที่แตกต่างกันออกไป แต่จากรายงาน "Ransomware and Business 2016" ของ Symantec พบว่าจำนวนเงินโดยเฉลี่ยอยู่ระหว่าง $600- $700 ซึ่งพบว่ามีมูลค่าเพิ่มขึ้นอย่างมีนัยสำคัญจากปีก่อน  
+  
+  
+
+## **ฉันควรจะ****จ่ายเงิน****ค่าไถ่ไหม****?**
+
+  
+คำตอบสั้นๆ ก็คือ "ไม่" ทั้งนี้ ผู้เชี่ยวชาญแนะนำว่า ให้ต่อต้านการให้ในสิ่งที่แฮกเกอร์เรียกร้อง แม้แต่ในกรณีที่ข้อมูลนั้นมีความสำคัญหรืออาจจะก่อให้เกิดการสูญเสียทางการเงินจากการหยุดทำงานของระบบ เพราะนั่นคือความเสี่ยง หนึ่งในเหตุผลที่ทำให้เหยื่อต้องรีบตัดสินใจปฏิเสธการทำตามคำเรียกร้องของผู้โจมตี นั่นเป็นเพราะ ทั้งความถี่ของการโจมตีจาก Ransomware และจำนวนเงินที่เรียกร้อง เป็นสิ่งที่ทำให้ผู้โจมตีเชื่อว่ากลยุทธ์เช่นนี้จะทำให้เกิดผลกำไรแก่พวกเขา ซึ่งการจ่ายเงินไม่เพียงแต่จะช่วยส่งเสริมให้การโจมตีเกิดมากขึ้น แต่พวกมันอาจจะเพียงแค่รอเวลา ก่อนที่จะย้อนกลับมาโจมตีคุณอีกครั้ง  
+  
+เหตุผลข้อที่สอง หากผู้ใช้งานชำระเงินตามคำขู่ ก็ไม่มีการรับประกันแต่อย่างใดว่าไฟล์หรือฮาร์ดไดร์ฟที่เข้ารหัสจะได้รับรหัสในการปลดล็อคจริงๆ หลังจากที่แฮ็คเกอร์ได้รับการชำระเงินแล้ว โดยมีความเป็นไปได้สูงที่พวกเขาจะเอาเงินและจากไปอย่างรีบร้อน  
+  
+มีวิธีที่มีประสิทธิภาพมากยิ่งขึ้นในการแก้ไขปัญหา รวมถึงการรายงานอาชญากรรมไซเบอร์และอาชญากรรมประเภทอื่นๆ โดยการรายงานไปยัง Action Fraud ซึ่งเป็นศูนย์รายงานการฉ้อโกงระดับชาติของสหราชอาณาจักร, ต้องทำให้แน่ใจว่าซอฟต์แวร์ป้องกันไวรัสและมัลแวร์ของคุณได้รับการอัพเดตอยู่เสมอ และมันก็ยังคงสามารถทำงานได้ดี รวมทั้งตรวจสอบให้แน่ใจว่าคุณได้ทำการอัพเดตแพทช์ (Patch) ระบบปฏิบัติการและซอฟต์แวร์ให้อยู่ในเวอร์ชั่นล่าสุดแล้ว  
+  
+นอกจากนี้ การใช้กลยุทธ์การสำรองและกู้คืนข้อมูลก็เป็นสิ่งจำเป็นเช่นกัน ในกรณีที่ทุกอย่างกลับสู่สภาพปกติ หลังจากการถูกโจมตีดังกล่าว  
+  
+
+## **เหตุการณ์การโจมตี** **NHS**  **โดย** **Ransomware** **ในปี ค.ศ.****2017**
+
+  
+
+เมื่อวันที่ 11 พฤษภาคม ปี 2017 มีรายงานการโจมตีครั้งใหญ่ของ Ransomware ที่ส่งผลกระทบอย่างหนักต่อ NHS ในอังกฤษและสกอตแลนด์ เช่นเดียวกับองค์กรอื่นๆ ทั่วโลก ซึ่งก็รวมถึง Telefonica ซึ่งเป็นบริษัทโทรคมนาคมยักษ์ใหญ่ของสเปน, Deutsche Bahn ในเยอรมนี, Renault และแม้แต่บริษัทที่ให้บริการส่งของอย่าง FedEx ก็ยังได้รับผลกระทบ โดยรวมแล้วพบคอมพิวเตอร์หลายหมื่นเครื่องใน 99 ประเทศที่ได้รับผลกระทบ  
+  
+การแพร่กระจ่ายของ Ransomware สามารถทำได้โดยผ่านทาง 3 เวกเตอร์หลักๆ นั่นก็คือ Initial Payload (เช่น ซอฟต์แวร์ ransomware ที่รู้จักกันในชื่อ WannaCry หรือ WannaCrypt) เข้าสู่เครือข่ายขององค์กรผ่านทางอีเมลฟิชชิง (Phishing Email) โดยผู้ใช้คลิกที่ลิงค์ที่เป็นอันตรายหรือดาวน์โหลดไฟล์ที่เป็นอันตราย  
+  
+การติดเชื้อ (Infection) แล้วมีการแพร่กระจายตัวเองออกไปอย่างรวดเร็วผ่านระบบเครือข่ายนั้น เกิดขึ้นโดยใช้เครื่องมือสองชนิดที่คาดว่าได้รับการพัฒนาขึ้นมาโดย NSA (National Security Agency) นั่นก็คือ EternalBlue exploit และ DoublePulsar backdoor ซึ่งมันถูกปล่อยออกมาโดย Hacking group ที่มีชื่อว่า ShadowBrokers โดยมาพร้อมกับอาวุธไซเบอร์ (Cyber Weapon) อื่นๆ อีกจำนวนหนึ่ง  
+  
+![](https://www.quickserv.co.th/texteditor/uploade/what-is-ransomware-3.png)  
+คอมพิวเตอร์ที่ติดเชื้อทั้งหมดในเครือข่ายจะถูกเข้ารหัสไฟล์ของพวกเขา ด้วยข้อความเรียกค่าไถ่ที่แสดงบนหน้าจอ หากเหยื่อต้องการรหัสเพื่อทำการปลดล็อคข้อมูล พวกเขาจะต้องจ่ายเงินจำนวน 300 เหรียญสหรัฐ ในรูปแบบของ Bitcoin โดยจะต้องชำระภายใน 3 วัน หรือ 600 เหรียญสหรัฐ ภายใน 7 วัน ซึ่งยังไม่มีรายงานที่แน่ชัดว่ามีกี่องค์กรที่ทำการจ่ายเงินไปแล้ว แต่เพียงแค่ภายในวันจันทร์ที่ 15 พฤษภาคม พบว่าเหล่าอาชญากรรมด้านไซเบอร์ (Cyber Criminal) สามารถทำเงินได้มากกว่า 40,000 เหรียญสหรัฐ ถ้าเทียบตาม URL ที่มีส่วนร่วมกับการเรียกร้องค่าไถ่  
+  
+ย้อนเหตุการณ์กลับไปเมื่อเดือนมีนาคม ปี 2017, Microsoft ได้เผยแพร่โปรแกรมแก้ไข (Patch) สำหรับช่องโหว่ ที่ส่งผลกระทบต่อระบบปฏิบัติการ Windows ทั้งหมด ตั้งแต่ Windows 7 จนถึง 8.1 อย่างไรก็ตาม มันไม่ได้ถูกนำไปใช้กับองค์ประกอบทั้งหมดของเครือข่ายองค์กรที่ได้รับผลกระทบ อาจมีหลายสาเหตุที่ทำให้เกิดเหตุการณ์นี้ขึ้น ซึ่งก็รวมถึงความจำเป็นสำหรับองค์กรที่จะต้องมีการดำเนินการตามขั้นตอนและกรณีพิพาทที่อาจจะเกิดขึ้นกับระบบและซอฟต์แวร์ที่สำคัญอื่น ๆ  
+  
+อีกหนึ่งเหตุผลนั่นก็คือ หลายองค์กรยังคงใช้งาน Windows XP อยู่ ซึ่งโดยปกติมันก็มักจะเกิดจากปัญหาความเข้ากันได้ (Compatibility issues) เนื่องจาก XP ไม่ได้รับการสนับสนุน มันจึงไม่มีการอัพเดทแพทช์ในเดือนมีนาคม ปี 2017 ทำให้ทุกระบบที่ใช้งาน Windows XP มีความเสี่ยงต่อการถูกโจมตี ซึ่ง 90% ของทรัพย์สินด้านไอที (IT Estate) ของ NHS (National Health Service) เป็นที่ทราบกันดีว่ากำลังเรียกใช้ Windows XP ในช่วงต้นปี 2017 แต่สัญญาในส่วน Custom Support ของมัน ได้ถูกยกเลิกไปแล้ว ตั้งแต่ปี 2015  
+  
+อย่างไรก็ตาม เมื่อพิจารณาจากความสำคัญของการถูกโจมตีในครั้งนี้ Microsoft ก็ได้สร้างและออกแพทช์สำหรับ Windows XPเป็นที่เรียบร้อยแล้ว แต่ขอแนะนำว่าองค์กรและบุคคลที่มีการใช้งาน Windows XP ควรได้รับการปรับปรุงซอฟต์แวร์ให้อยู่ในเวอร์ชั่นล่าสุดโดยเร็ว ทั้งนี้ก็เพื่อป้องกันการคุกคามจากมัลแวร์ประเภทนี้  
+  
+ที่มา:[https://www.itpro.co.uk](https://www.itpro.co.uk/security/28084/what-is-ransomware)
