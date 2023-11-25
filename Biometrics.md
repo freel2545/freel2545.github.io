@@ -1,4 +1,8 @@
 # Biometrics
+
+![image](https://github.com/freel2545/freel2545.github.io/assets/16851402/c36e664b-8ba5-47a8-958c-c56e2c9d688f)
+
+
 From Wikipedia, the free encyclopedia
 
 For the academic journal, see  [Biometrics (journal)](https://en.wikipedia.org/wiki/Biometrics_(journal) "Biometrics (journal)").  Not to be confused with  [Biometry](https://en.wikipedia.org/wiki/Biostatistics "Biostatistics").
