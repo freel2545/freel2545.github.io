@@ -2,7 +2,8 @@
 
 ## Ransomware
 
-https://www.klogixsecurity.com/hubfs/RansomwareGraphic-01.png
+![image](https://github.com/freel2545/freel2545.github.io/assets/16851402/0c0277fd-39d7-4cb4-addc-358cf4262087)
+
 
 **Ransomware**  is a type of  [cryptovirological](https://en.wikipedia.org/wiki/Cryptovirology "Cryptovirology")  [malware](https://en.wikipedia.org/wiki/Malware "Malware")  that permanently block access to the victim's  [personal data](https://en.wikipedia.org/wiki/Personal_data "Personal data")  unless a ransom is paid. While some simple ransomware may lock the system without damaging any files, more advanced malware uses a technique called cryptoviral extortion. It  [encrypts](https://en.wikipedia.org/wiki/Encrypts "Encrypts")  the victim's files, making them inaccessible, and demands a ransom payment to decrypt them.[[1]](https://en.wikipedia.org/wiki/Ransomware#cite_note-young-1)[[2]](https://en.wikipedia.org/wiki/Ransomware#cite_note-schofield-2)[[3]](https://en.wikipedia.org/wiki/Ransomware#cite_note-43zHf-3)[[4]](https://en.wikipedia.org/wiki/Ransomware#cite_note-BBe0f-4)[[5]](https://en.wikipedia.org/wiki/Ransomware#cite_note-5)  In a properly implemented cryptoviral extortion attack, recovering the files without the decryption  [key](https://en.wikipedia.org/wiki/Key_(cryptography) "Key (cryptography)")  is an  [intractable](https://en.wikipedia.org/wiki/Computational_complexity_theory#Intractability "Computational complexity theory")  problem, and difficult to trace  [digital currencies](https://en.wikipedia.org/wiki/Digital_currency "Digital currency")  such as  [paysafecard](https://en.wikipedia.org/wiki/Paysafecard "Paysafecard")  or  [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin "Bitcoin")  and other  [cryptocurrencies](https://en.wikipedia.org/wiki/Cryptocurrency "Cryptocurrency")  are used for the ransoms, making tracing and prosecuting the perpetrators difficult.
 
