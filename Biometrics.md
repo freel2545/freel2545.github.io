@@ -1,6 +1,5 @@
 # Biometrics
 <p align="center">
-  ![image](https://github.com/freel2545/freel2545.github.io/assets/16851402/c36e664b-8ba5-47a8-958c-c56e2c9d688f)
   <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
