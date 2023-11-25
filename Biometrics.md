@@ -1,6 +1,6 @@
 # Biometrics
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://www.identt.com/wp-content/uploads/2021/07/Document-based-video-verification-process-9-e1627294287654.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 
