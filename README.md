@@ -3,7 +3,7 @@
 
 ## img: [Hello World](HelloWorld.md)
 
-## Certificates
+## Certificate
 + ##### FortiGate ®
   - CERT: [FortiGate7.4](Cert_FortiGate7.4.md)
 
