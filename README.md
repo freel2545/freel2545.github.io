@@ -3,7 +3,6 @@
 
 ## img: [Hello World](HelloWorld.md)
 
-## CERT
 ## CERT: [FortiGate7.4](Cert_FortiGate7.4.md)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wanussanai Karin
