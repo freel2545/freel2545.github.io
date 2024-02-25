@@ -2,7 +2,7 @@
 ## site is live at https://freel2545.github.io/
 
 ## img: [Hello World](HelloWorld.md)
-## img: [PDPA](/img/output-onlinepngtools.png)
+## img: [PDPA](PDPA.md)
 
 ## Certificate
 + ### CERT: [FortiGate7.4](Cert_FortiGate7.4.md)
