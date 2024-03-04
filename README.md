@@ -6,6 +6,7 @@
 
 ## Certificate
 + ### CERT: [FortiGate7.4](Cert_FortiGate7.4.md)
++ ### CERT: [Introduction to Dark Web Operations](Cert_DarkWeb.md)
   - 
 
 ## Steganography: [Steganography](Steganography.md)
