@@ -13,7 +13,8 @@
 + [Fundamentals of Predictive Project Management](https://www.credly.com/badges/d22a2c25-c778-4c5d-8e57-be2eba2a70fc/public_url)
 + [Fundamentals of Agile Project Management](https://www.credly.com/badges/45ae076d-5e02-4205-a3dc-dda9b0593cae/public_url)
 + [Generative Al Overview for Project Managers](https://www.credly.com/badges/05d1a3b1-fac6-4131-a4d7-1eed7491b44a/public_url)
-
+  
++ [Design Sprint Professional Certification - DSPC™](https://www.credly.com/badges/40e8ccbe-63d6-41cd-9182-aa6b208fa104/public_url)
 
 ## Steganography: [Steganography](Steganography.md)
 
